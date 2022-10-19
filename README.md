@@ -43,7 +43,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/felipelyra3/felipelyra3/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/felipelyra3/felipelyra3/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
