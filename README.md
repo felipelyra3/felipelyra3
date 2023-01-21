@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Felipe Lyra and I study software development. I'm from Brazil 🇧🇷</h2>
+<h2 align="left">Hi 👋! My name is Felipe Lyra and I'm a Brazilian 🇧🇷 software development student 🏳️‍🌈</h2>
 
 ###
 
